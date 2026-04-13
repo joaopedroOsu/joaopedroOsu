@@ -4,4 +4,4 @@
        width="100%" />
 </p>
 
-# Olá, eu sou João Pedro! 👋
+https://osu.ppy.sh/
